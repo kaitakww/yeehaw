@@ -1,5 +1,5 @@
 # yeehaw
-A CLI Peer2Peer messenger with AES-256 encryption. Done for a university project.
+A CLI Peer2Peer messenger with AES-256 encryption. Made with Python for a university project.
 
 📃Pending features:
 	Adding secure key exchange (such as Diffie-Hellman, Pre-shared and ...),
